@@ -1,6 +1,6 @@
-#Lab Rep 5 lab 3 version Less command
+# Lab Rep 5 lab 3 version Less command
 
-##less
+## less
 ```
  $ less [options] file_path
 ```
